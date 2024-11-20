@@ -1,10 +1,10 @@
 # Secure WordPress Deployment with Linux, CyberPanel, and Cloudflare
 
-This project demonstrates the deployment of a secure WordPress website on a Linux server, configured with CyberPanel and enhanced with Cloudflare's Zero Trust Tunnel and Web Application Firewall (WAF) for robust protection.
+This project demonstrates the deployment of a secure WordPress website on a Oracle Linux server, configured with CyberPanel and enhanced with Cloudflare's Zero Trust Tunnel and Web Application Firewall (WAF) for robust protection.
 
 ## Features
 
-- **Linux Server Deployment**
+- **Oracle Linux Server Deployment**
 - **CyberPanel Installation**
 - **WordPress Installation**:
     - Installed and configured WordPress using CyberPanel
